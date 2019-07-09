@@ -1,1 +1,1 @@
-# Sources and scripts for jupyter book
+# Sources and build tools for jupyter book
